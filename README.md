@@ -1,4 +1,4 @@
-###Formal Rebuttal to Nature Article: “Why Sky-High Pay for AI Researchers is Bad for the Future of Science"
+#Formal Rebuttal to Nature Article: “Why Sky-High Pay for AI Researchers is Bad for the Future of Science"
 
 Author: DANIEL SAATCHI
 Affiliation: Dropout MSCA Fellow, Marie Skłodowska-Curie Actions (MSCA) Programme for Artificial Intelligence, European Union
