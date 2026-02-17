@@ -6,7 +6,7 @@ DANIEL SAATCHI
 Dropout MSCA Fellow, Marie Skłodowska-Curie Actions (MSCA) Programme for Artificial Intelligence, European Union
 ### X social platform: 
 <a href="https://x.com/danielsaatchi" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28black%29.png" width="16" style="vertical-align: middle;"> @danielsaatchi
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/X_%28formerly_Twitter%29_logo_late_2025.svg/960px-X_%28formerly_Twitter%29_logo_late_2025.svg.png" width="16" style="vertical-align: middle;"> @danielsaatchi
 </a>
 
 ### Date: 
