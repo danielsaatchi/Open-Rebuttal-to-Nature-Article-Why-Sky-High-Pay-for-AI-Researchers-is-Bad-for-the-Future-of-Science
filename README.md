@@ -37,7 +37,10 @@ The article correctly identifies that artificial intelligence is reshaping the r
 If research institutions benefit substantially from AI-driven innovation, then increased compensation and mobility among researchers should be understood not as distortions to be restrained but as necessary adjustments toward fairness, sustainability, and alignment with the modern knowledge economy.
 A more productive debate would therefore focus on institutional design: how to distribute value equitably, protect intellectual independence, and sustain the human conditions required for long-term scientific creativity.
 
+---
+
 **Written by,**
+
 DANIEL SAATCHI
 > Computational Scientist | AI Systems Architect & Concept Technology Designer 
 - Google Scholar: https://scholar.google.com/citations?user=Uv7KQxEAAAAJ&hl=en 
