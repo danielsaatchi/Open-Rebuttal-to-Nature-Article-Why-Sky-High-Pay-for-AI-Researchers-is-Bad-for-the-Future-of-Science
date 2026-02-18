@@ -1,4 +1,4 @@
-# Formal Rebuttal to Nature Article: “Why Sky-High Pay for AI Researchers is Bad for the Future of Science"
+# Open Rebuttal to Nature Article: “Why Sky-High Pay for AI Researchers is Bad for the Future of Science"
 
 ### Corresponding Author*: 
 DANIEL SAATCHI
