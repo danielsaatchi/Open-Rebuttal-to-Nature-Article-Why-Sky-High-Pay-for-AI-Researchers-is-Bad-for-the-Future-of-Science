@@ -43,5 +43,10 @@ A more productive debate would therefore focus on institutional design: how to d
 
 DANIEL SAATCHI
 > Computational Scientist | AI Systems Architect & Concept Technology Designer 
-- Google Scholar: https://scholar.google.com/citations?user=Uv7KQxEAAAAJ&hl=en 
+- Google Scholar: https://scholar.google.com/citations?user=Uv7KQxEAAAAJ&hl=en
+
+### References
+-Sanders, N.E. and Schneier, B. (2026) “Why sky-high pay for AI researchers is bad for the future of science,” Nature, 650(8102), pp. 554–555. Available at: https://doi.org/10.1038/d41586-026-00474-3.
+
+
 
